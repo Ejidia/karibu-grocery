@@ -3,3 +3,6 @@ table,th,td {
     border-collapse:collapse;
     size: 300px;
 }
+body{
+    background-color: cornflowerblue;
+}
